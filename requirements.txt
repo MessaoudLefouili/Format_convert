@@ -1,0 +1,5 @@
+customtkinter>=5.2
+tkinterdnd2>=0.3
+imageio-ffmpeg>=0.5
+pyinstaller>=6.0
+pytest>=8.0
